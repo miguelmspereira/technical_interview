@@ -1,17 +1,26 @@
-# Advanced Python Packages talk at the DSF Summer School 2021
-This repository contains the materials from the Advanced Python Packages talk given at the Data Science Festival Summer School 2021: https://events.dataidols.com/
+# Technical Interview Exercise
+This exercise uses dataset of lung cancer patients and the aim is to predict patient survival status at the end of 2 years after diagnosis.
 
-Talk Abstract:
+The outcome is a binary variable indicating whether a patient has living or deceased status at the end of 2 years.
 
-*Python currently is the most widely used programming language in the fields of machine learning, deep learning and AI. In-depth technical knowledge of machine learning python libraries is thus an indispensable part of the data scientist toolkit from beginner to expert level. This talk will cover three essential python packages that encompass a wide range of analytical methods. For each package, it will tackle the ‘What it does?’, the implemented methodologies, a code exercise and links to useful resources. Three additional tools will be covered as honorable mentions given their novelty and usefulness in stakeholder engagement.*
+The dataset contains information about the patients' age, sex, smoking status (current, former, never), cancer stage (Stage I, II, III or IV) and tumor histology (LUAD - lung adenocarcinoma; LUSC - lung squamous cell carcinoma; other).
+
+In addition to the clinical data, there is RNA-seq gene expression data from 4,544 genes. The gene expression data was normalised using standard bioinformatic tools. It does not need to be processed.
 
 
-The repository contains the following files:
+**The challenge:
 
-* `advanced_python_packages.PDF` - Slides used the talk
-* `scikit_learn_tensorflow_classifier.ipynb` - Tutorial code for scikit-learn and Tensorflow
-* `lung_cancer_dataset.csv` - Dataset to use in the  scikit-learn and Tensorflow tutorial code. Please note that this dataset has less patients and less genes than the dataset used in the talk. This facilitates data sharing and and allows the code to run faster.
-* `pytorch_gnn_mutag.ipynb` - Tutorial code for pytorch-geometric
+Build a modelling approach to predict 2-year survival in lung cancer.
+We are interested in 
 
-A video recording will be available on the Data Idols event website on 24 August.
-The full Summer School schedule can be found here: https://events.dataidols.com/schedule/
+This a a stricly technical exercise where the goal is to show code proficiency and domain of data science tools and packages. You are not expected to interpret the results from a clinical perpsective.
+While model performance is important, you are not expected to spend time improving models.
+
+
+**Deliverables:
+- Code written to solve the challenge and a report. This can be done in a number of platforms of your choice. The document/s should be uploaded to this repo.
+- The report should explain briefly the steps taken to solve the challenge as well as the rationale behind modelling choices.
+
+
+**Time:
+- There is a 24h turnaround time to complete the challenge.
