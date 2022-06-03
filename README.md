@@ -8,7 +8,7 @@ The dataset contains information about the patients' age, sex, smoking status (c
 In addition to the clinical data, there is RNA-seq gene expression data from 4,544 genes. The gene expression data was normalised using standard bioinformatic tools. It does not need to be processed.
 
 
-**The challenge:
+### The challenge:
 
 Build a modelling approach to predict 2-year survival in lung cancer.
 We are interested in 
@@ -17,10 +17,10 @@ This a a stricly technical exercise where the goal is to show code proficiency a
 While model performance is important, you are not expected to spend time improving models.
 
 
-**Deliverables:
+### Deliverables:
 - Code written to solve the challenge and a report. This can be done in a number of platforms of your choice. The document/s should be uploaded to this repo.
 - The report should explain briefly the steps taken to solve the challenge as well as the rationale behind modelling choices.
 
 
-**Time:
+### Time:
 - There is a 24h turnaround time to complete the challenge.
