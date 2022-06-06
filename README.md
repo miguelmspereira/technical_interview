@@ -18,7 +18,7 @@ This a a stricly technical exercise where the goal is to show code proficiency a
 
 We would like to see one or two model frameworks applied to this data, the approach used to build a predictive model and how you would assess performance.
 
-While model performance is important, you are not expected to spend time improving models.
+While model performance is important, it is not a goal here, so you are not expected to spend time improving models.
 
 
 
