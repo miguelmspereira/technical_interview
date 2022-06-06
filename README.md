@@ -14,7 +14,7 @@ In addition to the clinical data, there is RNA-seq gene expression data from ~50
 Build a modelling approach to predict 2-year survival in lung cancer.
 We are interested in building a model to predict survival in lung cancer and to understand how accuratele can we predict it and what are the main predictors of survival.
 
-This a a stricly technical exercise where the goal is to show code proficiency and domain of data science tools and packages. You are not expected to interpret the results from a clinical perpsective.
+This is a stricly technical exercise where the goal is to show code proficiency and domain of data science tools and packages. You are not expected to interpret the results from a clinical perpsective.
 
 We would like to see one or two model frameworks applied to this data, the approach used to build a predictive model and how you would assess performance.
 
