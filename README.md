@@ -25,10 +25,13 @@ While model performance is important, you are not expected to spend time improvi
 ### Deliverables:
 - The code written to solve the challenge and a report. This can be done in a number of platforms of your choice.
 - A report should explain briefly the steps taken to solve the challenge as well as the rationale behind modelling choices.
-- You can choose to write the code and the report in the same file.
+- You can choose to write the code and the report in the same file (e.g. a Jupyter Notebook or R Markdown file).
 
 The document/s should be uploaded to this repo.
 
 
 ### Timeline:
 - There is a 24h turnaround time to complete the challenge.
+
+
+(all the code provided will be deleted in the future, regardless of the outcome of the interview. No data will be stored.)
