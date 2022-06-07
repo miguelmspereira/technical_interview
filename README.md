@@ -5,14 +5,14 @@ The outcome is a binary variable indicating whether a patient has living or dece
 
 The dataset contains information about the patients' age, sex, smoking status (current, former, never), cancer stage (Stage I, II, III or IV) and tumor histology (LUAD - lung adenocarcinoma; LUSC - lung squamous cell carcinoma; other).
 
-In addition to the clinical data, there is RNA-seq gene expression data from ~500 genes. The gene expression data was normalised using standard bioinformatic tools and does not need to be processed.
+In addition to the clinical data, there is RNA-seq gene expression data from ~500 genes. The gene expression data was normalised using standard bioinformatic tools and does not need to be processed. There is also a PPI dataset that you are able to leverage if you wish.
 
 
 
 ### The challenge:
 
 Build a modelling approach to predict 2-year survival in lung cancer.
-We are interested in building a model to predict survival in lung cancer and to understand how accuratele can we predict it and what are the main predictors of survival.
+We are interested in building a model to predict survival in lung cancer and to understand how accurately can we predict it and what are the main predictors of survival.
 
 This is a stricly technical exercise where the goal is to show code proficiency and domain of data science tools and packages. You are not expected to interpret the results from a clinical perpsective.
 
